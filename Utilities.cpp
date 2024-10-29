@@ -1,16 +1,3 @@
-/*****************************************************************************
-Milestone - 3
-Full Name : Sergii Safronov
-Student ID# : 132736224
-Email : SSafronov@myseneca.ca
-Section : RNB
-Date : April 4, 2024
-
-Authenticity Declaration :
-I have done all the coding by myself and only copied the code
-that my professor provided to complete my workshops and assignments.
-*****************************************************************************/
-
 #include "Utilities.h"
 
 namespace seneca {
